@@ -1,0 +1,42 @@
+Hash Record — Meta-Systems Design
+--------------------------------
+
+Files hashed:
+- AXIOMATIC_CORE.md
+- CPCC_EMERGENT_INTEGRATIVE_ROLE.md
+- LEVEL_III_KNOWLEDGE_IN_PRACTICE.md
+- LEVEL_II_KNOWLEDGE_SYNTHESIS.md
+- LEVEL_IV_KNOWLEDGE_ECOSYSTEMS.md
+- LEVEL_I_COGNITIVE_ARCHITECTURE.md
+- MASTER_BLUEPRINT.md
+- Meta-Systems_Design_Intellectual_Capital_in_Human-AI_Creative_Ecologies.pdf
+- 01_L-01_reflexive_thinking_Core.md
+- 02_L-02_architectural_resolution_Core.md
+- 03_L-03_generative_compression_Core.md
+- 04_L-04_document_anchored_practice_Core.md
+- 05_L-05_cognitive_design_Core.md
+- 06_L-06_discovery_heuristics_Core.md
+- 07_L-07_taxonomies_legibility_Core.md
+- 08_L-08_epistemic_layering_Core.md
+- 09_L-09_recursive_workflows_Core.md
+- 10_L-10_adaptive_strategies_Core.md
+- 11_L-11_domain_expertise_Core.md
+- 12_L-12_cross_domain_mapping_Core.md
+- 13_L-13_cpcc_integrative_node_Core.md
+- 14_L-14_creative_information_theory_Core.md
+- 15_L-15_creative_systems_theory_Core.md
+- 16_L-16_cognitive_sociology_Core.md
+
+Hash algorithm:
+SHA-256
+
+Hash generation method:
+Python hashlib
+
+Date of hash generation:
+2026-03-31 (UTC)
+
+Generated from original PDF and MD source files.
+
+Purpose:
+Authorship verification, epistemic integrity, and immutable record.
