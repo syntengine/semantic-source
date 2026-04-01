@@ -13,7 +13,7 @@
 
 ## 🎓 ACADEMIC REFERENCE
 **Status**: Conceptual Model / Systems Design Specification
-**Citation**: Dmitry Moiseev, "L-Protocol: Cognitive Architecture Standard", March 2026 · Meta-Systems Design.
+**Citation**: Dmitry Moiseev, "The system is designed to preserve human creative continuity while enabling participation in accelerating generative environments.", March 2026 · Meta-Systems Design.
 **Source**: [Full Paper on Academia.edu](https://www.academia.edu/165381282/Intellectual_Capital_in_Human_AI_Creative_Ecologies_A_Multi_Level_Cognitive_Architecture_for_Creative_Capacity_Resilience_under_Generative_Acceleration)
 
 > *This entry establishes the formal authorship and provenance of the L-Protocol within the field of Sociology of Knowledge and professional creative environments.*
@@ -28,7 +28,7 @@
 1. **LEVEL I: COGNITIVE ARCHITECTURE** — Filtering the input stream to eliminate entropy and forming a **Diamond Core** through **ARC-processing**.
 2. **LEVEL II: KNOWLEDGE SYNTHESIS** — Materializing insights into secure documentary forms, creating a semantic substrate and memory interfaces.
 3. **LEVEL III: KNOWLEDGE IN PRACTICE** — Deploying and adapting synthesized capital under real-world constraints to build operational weight.
-4. **CPCC INTEGRATIVE NODE** — The point of autonomous orchestration by the *Cognitive Architect (Meta-Systems Architect)*. Synchronizing foundational **LEVELS I–III** for decision-making and **expansion steering**.
+4. **CPCC INTEGRATIVE NODE** — The point of autonomous orchestration by the *Cognitive Architect*. Synchronizing foundational **LEVELS I–III** for decision-making and **expansion steering**.
 5. **LEVEL IV: KNOWLEDGE ECOSYSTEMS** — Ecosystemic scaling and institutionalization, shaping the cultural genome and building resilient traditions.
 
 ---
@@ -47,7 +47,7 @@
 * **[L-04: Document-Anchored Practice](02_Knowledge_Synthesis/04_L-04_document_anchored_practice.md)** — Stabilized Knowledge Artefacts.
 * **[L-05: Cognitive Design](02_Knowledge_Synthesis/05_L-05_cognitive_design.md)** — Multimodality.
 * **[L-06: Discovery Heuristics](02_Knowledge_Synthesis/06_L-06_discovery_heuristics.md)** — Navigational Insight.
-* **[L-07: Taxonomies & Legibility](02_Knowledge_Synthesis/07_L-07_taxonomies_legibility.md)** — Lines of Force.
+* **[L-07: Taxonomies & Semantic Legibility](02_Knowledge_Synthesis/07_L-07_taxonomies_legibility.md)** — Lines of Force.
 * **[L-08: Epistemic Layering](02_Knowledge_Synthesis/08_L-08_epistemic_layering.md)** — Depth Protection Membrane.
 * **[L-09: Recursive Workflows](02_Knowledge_Synthesis/09_L-09_recursive_workflows.md)** — Reinforcing Flywheel.
 
@@ -60,7 +60,7 @@
 * **[L-13: CPCC Integrative Node](04_Integrative_Node/13_L-13_cpcc_integrative_node.md)** — *Cognitive Architect (Meta-Systems Design)*.
 
 ### LEVEL IV: KNOWLEDGE ECOSYSTEMS (Expansion)
-* **[L-14: Creative Info Theory](05_Knowledge_Ecosystems/14_L-14_creative_information_theory.md)** — Value Potential.
+* **[L-14: Creative Information Theory](05_Knowledge_Ecosystems/14_L-14_creative_information_theory.md)** — Value Potential.
 * **[L-15: Creative Systems Theory](05_Knowledge_Ecosystems/15_L-15_creative_systems_theory.md)** — Relational Topology.
 * **[L-16: Cognitive Sociology](05_Knowledge_Ecosystems/16_L-16_cognitive_sociology.md)** — Cultural Resonance.
 
@@ -112,6 +112,8 @@
 ## 🔑 HOW TO USE THIS REPOSITORY (OPERATIONAL KEY)
 
 **Description**: Operational sequence to activate the cognitive environment (L-01 to L-16) for high-precision intellectual capital formation. The L-Protocol ensures semantic integrity and synchronizes the AI agent with the Core Architecture.
+
+📖 **Interactive Edition**: For researchers and architects, an interactive interface of the 16-layer architecture is available via [GitBook](https://syntengine.gitbook.io/semantic-source).
 
 **Activation Algorithm**:
 1. Provide your AI agent with the link to this README.
