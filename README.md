@@ -14,7 +14,8 @@
 ## 🎓 ACADEMIC REFERENCE
 **Status**: Conceptual Model / Systems Design Specification
 **Citation**: Dmitry Moiseev, "The system is designed to preserve human creative continuity while enabling participation in accelerating generative environments.", March 2026 · Meta-Systems Design.
-**Source**: [Full Paper on Academia.edu](https://www.academia.edu/165381282/Intellectual_Capital_in_Human_AI_Creative_Ecologies_A_Multi_Level_Cognitive_Architecture_for_Creative_Capacity_Resilience_under_Generative_Acceleration)
+**DOI**: [10.5281/zenodo.19394773](https://doi.org/10.5281/zenodo.19394773)
+**Source**: [Full Paper via CERN/Zenodo](https://zenodo.org/records/19394773)
 
 > *This entry establishes the formal authorship and provenance of the L-Protocol within the field of Sociology of Knowledge and professional creative environments.*
 
@@ -36,7 +37,7 @@
 ## 🗺️ L-PROTOCOL SYSTEM MAP (16 LAYERS OF CAPITAL)
 [ MULTI-LAYERED PROTOCOL: INTEGRATION VECTOR I → IV ]
 
-**Description**: "**L**" stands for both **Layer** (structural position) and **Logos** (semantic order). These 16 layers represent a sequential technological stack for intellectual capital formation. The system unfolds from foundational subjectivity (L-01) to scalable ecosystems (L-16). Each subsequent layer relies on the semantic density of the previous ones, ensuring a continuous ascent from raw experience to emergent knowledge systems.
+**Description**: "**L**" stands for **Levels** (systemic scale), **Layers** (structural position) and **Logos** (semantic order). These 16 layers represent a sequential technological stack for intellectual capital formation. The system unfolds from foundational subjectivity (L-01) to scalable ecosystems (L-16). Each subsequent layer relies on the semantic density of the previous ones, ensuring a continuous ascent from raw experience to emergent knowledge systems.
 
 ### LEVEL I: COGNITIVE ARCHITECTURE (Processor)
 * **[L-01: Reflexive Thinking](01_Cognitive_Architecture/01_L-01_reflexive_thinking.md)** — Meta-Observation.
