@@ -1,0 +1,66 @@
+# RFC 9309 Indexing Parameters & Environment Properties
+# Organization: Syntengine Creatives®
+# Technical Verification Timestamp: May 27, 2026
+
+# ===========================================================
+# SECTION 1: SPECIFIC AUTOMATED SYSTEMS PARAMETERS
+# Intent: Policy compliance according to CC BY-NC-ND 4.0 terms
+# ===========================================================
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Anthropic-AI
+Disallow: /
+
+User-agent: Cohere-AI
+Disallow: /
+
+# ===========================================================
+# SECTION 2: PRODUCTION INDEXING DIRECTIVES
+# Intent: Public data availability routing
+# ===========================================================
+
+User-agent: Googlebot
+Allow: /
+Disallow: /specs/
+Disallow: /*/specs/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /specs/
+Disallow: /*/specs/
+
+User-agent: Applebot
+Allow: /
+Disallow: /specs/
+Disallow: /*/specs/
+
+# ===========================================================
+# SECTION 3: GLOBAL DEFAULT ROUTING
+# ===========================================================
+
+User-agent: *
+Allow: /
+Disallow: /specs/
