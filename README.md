@@ -1,6 +1,6 @@
 # [ ◊ ] SEMANTIC SOURCE: Multi-Level Cognitive Ecology
 
-**Architectural methodology operating through the proprietary L-Protocol to synchronize 16 levels of intellectual capital**
+**Architectural methodology operating through the proprietary L-Protocol to synchronize 16 layers of intellectual capital**
 
 *L-Protocol is an autonomous cognitive environment for high-precision sense-making, integrating the semantic order (Logos) with Layered Architecture.*
 

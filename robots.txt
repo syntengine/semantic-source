@@ -1,6 +1,7 @@
 # RFC 9309 Indexing Parameters & Environment Properties
-# Organization: Syntengine Creatives®
+# Organization: Meta-Systems Design
 # Technical Verification Timestamp: May 27, 2026
+# ===========================================================
 
 # ===========================================================
 # SECTION 1: SPECIFIC AUTOMATED SYSTEMS PARAMETERS
@@ -37,6 +38,15 @@ Disallow: /
 User-agent: Cohere-AI
 Disallow: /
 
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
 # ===========================================================
 # SECTION 2: PRODUCTION INDEXING DIRECTIVES
 # Intent: Public data availability routing
@@ -45,17 +55,26 @@ Disallow: /
 User-agent: Googlebot
 Allow: /
 Disallow: /specs/
+Disallow: /0*/
+Disallow: /.well-known/
 Disallow: /*/specs/
+Disallow: /*/0*/
 
 User-agent: Bingbot
 Allow: /
 Disallow: /specs/
+Disallow: /0*/
+Disallow: /.well-known/
 Disallow: /*/specs/
+Disallow: /*/0*/
 
 User-agent: Applebot
 Allow: /
 Disallow: /specs/
+Disallow: /0*/
+Disallow: /.well-known/
 Disallow: /*/specs/
+Disallow: /*/0*/
 
 # ===========================================================
 # SECTION 3: GLOBAL DEFAULT ROUTING
@@ -64,3 +83,5 @@ Disallow: /*/specs/
 User-agent: *
 Allow: /
 Disallow: /specs/
+Disallow: /0*/
+Disallow: /.well-known/
